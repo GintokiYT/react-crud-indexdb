@@ -1,3 +1,5 @@
+// Metodos de indexdb
+
 let db = null;
 
 export const openIndexDB = () => {
